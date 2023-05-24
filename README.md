@@ -1,1 +1,1 @@
-# RepositorioHenry
+Este es el repositorio del modulo 2 del prepcourse para crear un repositorio y vincularlo.
